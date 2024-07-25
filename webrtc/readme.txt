@@ -13,4 +13,5 @@ Watch video here
 https://www.youtube.com/watch?v=FExZvpVvYxA
 minute 46:00
 
+More details on how it Works: https://webrtcforthecurious.com/docs/03-connecting/
 You can find some other demos: https://webrtc.github.io/samples/
